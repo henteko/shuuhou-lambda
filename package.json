@@ -1,0 +1,18 @@
+{
+  "name": "shuuhou-slack",
+  "version": "1.0.0",
+  "description": "",
+  "author": "henteko",
+  "license": "ISC",
+  "dependencies": {
+    "slack-node": "^0.1.7"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-zip": "^3.0.2",
+    "run-sequence": "^1.1.1"
+  }
+}
